@@ -132,7 +132,9 @@ You may download and evaluate the application. Commercial use, deployment in a
 business environment, redistribution, and reverse engineering are not permitted
 without written permission.
 
-For a commercial license or a support contract, please get in touch.
+For a commercial license, deployment in a business, or a support contract:
+
+- Telegram: [@sqlserver2021](https://t.me/sqlserver2021)
 
 Third-party components are listed in
 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
@@ -196,6 +198,8 @@ SyncDB یک برنامه‌ی ویندوزی برای **انتقال و همگا
 
 این نرم‌افزار **متن‌باز نیست** و تمام حقوق محفوظ است. دانلود و ارزیابی آزاد است؛ استفاده‌ی تجاری، راه‌اندازی در محیط کاری، بازتوزیع و مهندسی معکوس بدون اجازه‌ی کتبی مجاز نیست.
 
-برای لایسنس تجاری یا قرارداد پشتیبانی تماس بگیرید.
+برای لایسنس تجاری، راه‌اندازی در محیط کاری یا قرارداد پشتیبانی:
+
+- تلگرام: [@sqlserver2021](https://t.me/sqlserver2021)
 
 </div>
