@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="SyncDB" width="460">
+</p>
+
 # SyncDB
 
 **SQL Server to SQL Server data transfer and synchronization — without Linked Servers.**
@@ -134,6 +138,7 @@ without written permission.
 
 For a commercial license, deployment in a business, or a support contract:
 
+- Telegram channel: [@sajadsalemisql](https://t.me/sajadsalemisql)
 - Telegram: [@sqlserver2021](https://t.me/sqlserver2021)
 
 Third-party components are listed in
@@ -200,6 +205,7 @@ SyncDB یک برنامه‌ی ویندوزی برای **انتقال و همگا
 
 برای لایسنس تجاری، راه‌اندازی در محیط کاری یا قرارداد پشتیبانی:
 
+- کانال تلگرام: [@sajadsalemisql](https://t.me/sajadsalemisql)
 - تلگرام: [@sqlserver2021](https://t.me/sqlserver2021)
 
 </div>
