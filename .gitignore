@@ -1,0 +1,25 @@
+# Never commit source code to this release repository
+*.cs
+*.csproj
+*.sln
+
+# Never commit local data or saved connections
+*.db
+*.litedb
+*.log
+logs/
+_tmp/
+build_log.txt
+
+# Local configuration
+*.local.json
+appsettings.local.*
+config.local.*
+
+# Editor / OS
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+desktop.ini
